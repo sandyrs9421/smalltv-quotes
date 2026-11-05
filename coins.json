@@ -1,0 +1,4 @@
+{
+  "comment": "Add a CoinGecko coin by putting its ID here (the last part of its coingecko.com URL). Then add a ticker on the device: source=GitHub, symbol=<that ID>, category=Crypto.",
+  "coins": ["pearl-2"]
+}
